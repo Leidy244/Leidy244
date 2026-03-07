@@ -93,8 +93,7 @@ Java
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/leidy-marcela-guerrero-pulido-958643384)
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
 
 </p>
 </p>
