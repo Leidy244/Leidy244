@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Leidy Guerrero 👋</h1>
+<h1 align="center">¡Hola, soy Leidy Guerrero! 👋</h1>
 
 <p align="center">
-Technologist in Training in Software Analysis and Development | Backend & Web Development Enthusiast
+Tecnóloga en Formación en Análisis y Desarrollo de Software | Entusiasta del Desarrollo Web & Backend
 </p>
 
 <div align="center">
@@ -10,96 +10,95 @@ Technologist in Training in Software Analysis and Development | Backend & Web De
 
 ---
 
-## 👩‍💻 Professional Profile
+## 👩‍💻 Perfil Profesional
 
-Technologist in training in **Software Analysis and Development (SENA)** with knowledge in **web application development, programming and database management**.  
+Tecnóloga en formación en **Análisis y Desarrollo de Software (SENA)** con sólidos conocimientos en el **desarrollo de aplicaciones web, programación y gestión de bases de datos**.  
 
-Experience in academic projects using technologies such as **Java, Spring Framework, JavaScript, Node.js, NestJS, HTML, CSS and PostgreSQL**, as well as the implementation of **JWT authentication, database migrations and containerization with Docker**.
+Experiencia en proyectos académicos y prácticos utilizando tecnologías como **Java, Spring Framework, JavaScript, Node.js, NestJS, React, HTML, CSS, PostgreSQL y MySQL**, así como en la implementación de **autenticación con JWT, migraciones de bases de datos y orquestación de contenedores con Docker**.
 
-Recognized for being a **responsible, adaptable and proactive person**, with strong interest in technology and continuous learning. Interested in contributing to the development of **efficient and scalable technological solutions** while continuing to strengthen my technical skills.
-
----
-
-## 🎓 Education
-
-**Technologist in Software Analysis and Development**  
-SENA – Servicio Nacional de Aprendizaje  
+Me caracterizo por ser una persona **responsable, adaptable y proactiva**, con un fuerte interés por la tecnología, la innovación y el aprendizaje continuo. Apasionada por contribuir al desarrollo de **soluciones tecnológicas eficientes y escalables** mientras continúo fortaleciendo mis habilidades técnicas.
 
 ---
 
-## 💻 Academic Experience
+## 🎓 Educación
 
-### Web Application Development – Gastrobar Management System
-
-Development of a web application aimed at improving **order management, statistics and accounting control** for a gastrobar, customized according to the operational needs of the establishment.
-
-**How it was developed**
-
-The project was built using **Java with Spring Framework** for backend development and **MySQL** for database management. The user interface was created using **HTML, CSS and JavaScript**, enabling dynamic interaction between the system and users. Frontend and backend components were integrated to manage order registration, data storage and information visualization.
-
-**Achievements**
-
-- Developed a functional digital system for **order management**.  
-- Implemented features for **data visualization and basic business statistics**.  
-- Strengthened skills in **full-stack web development and database integration**.
-
-**Technologies:**  
-Java, Spring Framework, MySQL, HTML, CSS, JavaScript
+**Tecnóloga en Análisis y Desarrollo de Software** SENA – Servicio Nacional de Aprendizaje  
 
 ---
 
-### Programming Logic Development in Java
+## 💻 Experiencia Académica y Proyectos
 
-Development of academic exercises focused on strengthening **algorithmic thinking and programming logic** using Java.
+### ☕ Sistema Portátil de Gestión Comercial e Inventarios – Juyasia (Cafetería)
+Desarrollo de un sistema independiente y portátil diseñado para la digitalización del menú, toma de pedidos en tiempo real y control optimizado de inventarios para una cafetería.
 
-**How it was developed**
+**Cómo se desarrolló** El proyecto se construyó utilizando **React** para el desarrollo de una interfaz de usuario dinámica y responsiva, conectada de forma eficiente a un backend robusto desarrollado en **Node.js**. Para la persistencia de datos, se implementó un sistema de almacenamiento local basado en archivos JSON / base de datos embebida, eliminando la dependencia de servidores externos. El valor técnico principal consistió en el diseño de un paquete de despliegue automatizado mediante scripts **.bat y lanzadores .exe**, permitiendo que todo el entorno *full-stack* sea completamente portátil y ejecutable en cualquier máquina con un solo clic.
 
-Exercises were implemented using **Java**, applying control structures, conditional statements and loops to execute system instructions according to defined conditions. During these practices, algorithms were designed to solve programming problems and apply basic concepts of **object-oriented programming**.
+**Logros** - **Despliegue Portátil Automatizado:** Se diseñó una arquitectura de empaquetado independiente mediante archivos `.bat` y `.exe`, logrando ejecutar la aplicación de manera local sin configuraciones previas de entorno.  
+- **Optimización Comercial:** Se desarrolló un flujo funcional y óptimo para la gestión de productos, inventarios y registro de ventas del establecimiento.  
+- **Habilidades Fortalecidas:** Consolidación de competencias en arquitectura de software *full-stack* (React/Node.js), automatización de tareas del sistema operativo y estrategias de despliegue local.
 
-**Achievements**
-
-- Strengthened **problem-solving skills through programming**.  
-- Applied **control structures and algorithm development**.  
-- Improved ability to translate requirements into **functional program instructions**.
-
-**Technologies:**  
-Java
+**Tecnologías:** React, Node.js, JavaScript, HTML5, CSS3, Almacenamiento Local (JSON / Embebido), Automatización de Scripts (.bat / .exe)
 
 ---
 
-## ⚙️ Languages and Tools
+### 🍔 Aplicación Web para la Gestión Operativa y Control Contable – Gastrobar
+Desarrollo de una aplicación web orientada a mejorar la **gestión de pedidos, estadísticas y el control contable** de un gastrobar, personalizado según las necesidades operativas del establecimiento.
+
+**Cómo se desarrolló** El proyecto se construyó utilizando **Java con Spring Framework** para el desarrollo de un backend robusto y escalable, garantizando la seguridad y eficiencia en la lógica de negocio. Para la persistencia y administración de los datos, se integró el sistema de gestión de bases de datos relacionales **MySQL**. La interfaz de usuario se diseñó de forma responsiva mediante **HTML5, CSS3 y JavaScript**, permitiendo una interacción fluida. La integración de los componentes *frontend* y *backend* optimizó el flujo de datos para el registro en tiempo real de pedidos, almacenamiento seguro de transacciones y visualización de información.
+
+**Logros** - **Digitalización y Eficiencia Operativa:** Se implementó un sistema digital completamente funcional que automatizó el ciclo de gestión de pedidos, reduciendo tiempos de espera y errores manuales.  
+- **Análisis de Datos Estratégicos:** Se desarrollaron módulos para la visualización de datos y métricas comerciales básicas, facilitando el control contable y la toma de decisiones basada en estadísticas de ventas.  
+- **Consolidación Técnica:** Fortalecimiento avanzado de competencias en ingeniería de software *full-stack*, modelado de bases de datos relacionales e integración segura de APIs.
+
+**Tecnologías:** Java, Spring Framework, MySQL, JavaScript, HTML5, CSS3
+
+---
+
+### 🚀 Desarrollo de Lógica de Programación en Java
+Desarrollo de ejercicios prácticos enfocados en fortalecer el **pensamiento algorítmico y la lógica de programación** utilizando Java.
+
+**Cómo se desarrolló** Los ejercicios se implementaron en **Java**, aplicando estructuras de control, condicionales y bucles para ejecutar instrucciones del sistema bajo condiciones específicas. Durante estas prácticas, se diseñaron algoritmos para resolver problemas lógicos y se aplicaron los conceptos fundamentales de la **Programación Orientada a Objetos (POO)**.
+
+**Logros** - Fortalecimiento en la **resolución de problemas complejos mediante código**.  
+- Aplicación de **estructuras de control avanzadas y diseño de algoritmos eficaces**.  
+- Mejora en la capacidad de traducir requerimientos lógicos en **instrucciones de software funcionales**.
+
+**Tecnologías:** Java
+
+---
+
+## ⚙️ Lenguajes y Herramientas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,nestjs,postgres,mysql,docker,git,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,nestjs,postgres,mysql,docker,git,vscode" />
 </p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Habilidades Técnicas
 
-- Web Development  
-- Backend Development  
-- Object-Oriented Programming (OOP)  
-- Database Design and Management  
-- API Development  
-- Authentication with JWT  
-- Database Migrations  
-- Containerization with Docker
-
----
-
-## 🔗 Connect with me
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/leidy-marcela-guerrero-pulido-958643384)
-
-
-</p>
-</p>
+- Desarrollo Web Full-Stack  
+- Desarrollo Backend (Arquitecturas robustas y escalables)  
+- Programación Orientada a Objetos (POO)  
+- Diseño y Gestión de Bases de Datos (Relacionales y Embebidas)  
+- Desarrollo e Integración de APIs RESTful  
+- Autenticación y Seguridad con JWT  
+- Migraciones de Bases de Datos y Control de Versiones  
+- Contenedores con Docker  
+- Automatización de Scripts y Despliegue Local
 
 ---
 
+## 🔗 Conéctate conmigo
+
 <p align="center">
-✨ Thanks for visiting my profile ✨
+<a href="https://co.linkedin.com/in/leidy-marcela-guerrero-pulido" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ ¡Gracias por visitar mi perfil! ✨
 </p>
